@@ -11,3 +11,5 @@ The hero and editorial images remain illustrative generated assets.
 
 - Minimal planning photograph: Cup of Couple / Pexels https://www.pexels.com/photo/white-flower-vase-on-top-of-a-wooden-desk-7301827/
 - New luxury hero: illustrative 3D scene generated with the built-in image generation tool; not a real business installation.
+
+- Revised compact hero: Jonathan Borba / Pexels https://www.pexels.com/photo/chairs-and-table-decorated-for-ceremony-12876406/ (real stock photograph, not verified Kalaye Shad work).
