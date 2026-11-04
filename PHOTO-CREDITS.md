@@ -8,3 +8,6 @@ Photographic examples are stock images, not verified Kalaye Shad work or product
 
 Images downloaded from the original Pexels CDN. License: https://www.pexels.com/license/
 The hero and editorial images remain illustrative generated assets.
+
+- Minimal planning photograph: Cup of Couple / Pexels https://www.pexels.com/photo/white-flower-vase-on-top-of-a-wooden-desk-7301827/
+- New luxury hero: illustrative 3D scene generated with the built-in image generation tool; not a real business installation.
